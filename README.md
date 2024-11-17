@@ -5,15 +5,15 @@
 Hello! I'm Nevil Dhinoja, currently pursuing my Bachelor's degree in Computer Engineering at Charusat University. With a strong foundation in programming and a growing interest in app development and AI/ML, I am passionate about building practical solutions and learning new technologies.
 
 * 🎓 **Diploma**: Completed in Computer Engineering at RK University.  
-* 🛠 **Current Focus**: Working on enhancing my AI tutor project and converting it into a web app.  
+* 🛠 **Current Focus**: Working on enhancing my AI / ML skills and Problem solving techniques  
 * 🎯 **Interests**: App Development, AI/ML, Backend Development.
 
 ## 🚀 Skills  
 * **Languages**: Java, Python, PHP, C++  
 * **Web Development**: HTML, CSS, JavaScript, PHP  
 * **Databases**: MySQL, SQLite  
-* **Tools**: Git, VS Code, Postman, XAMPP  
-* **Platforms**: Android Studio, Django, Laravel
+* **Tools**: Git, OpenAI, NOTEBOOKLM , VS Code, Postman, XAMPP 
+* **Platforms**: Android Studio, Django, Laravel, Pycharm
 
 ## 💡 Projects  
 
@@ -37,9 +37,10 @@ Hello! I'm Nevil Dhinoja, currently pursuing my Bachelor's degree in Computer En
 
 ## 📈 Learning Path  
 * **Java**: Completed an online course on Udemy.  
-* **AI & ML**: Exploring more advanced concepts to integrate into my projects.  
-* **Web App Development**: Currently focused on developing the web app version of my AI tutor project to improve accuracy and speed, integrating AI components for intelligent tutoring.  
+* **AI & ML**: Exploring more advanced concepts to integrate into my projects.
 * **Application Development**: Completed "The Learners" e-learning application, gaining hands-on experience in building user-friendly educational platforms.
+* **Web App Development**: Currently focused on developing the web app version of my AI tutor project to improve accuracy and speed, integrating AI components for intelligent tutoring.  
+* **NLP Models**: Building Concepts related , Basic Model Development and Learning
 
 ## 📞 Get in Touch  
 * **Email**: [dhinoja.nevil@gmail.com](mailto:dhinoja.nevil@gmail.com)  

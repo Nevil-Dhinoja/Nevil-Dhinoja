@@ -32,8 +32,9 @@ Hello! I'm Nevil Dhinoja, currently pursuing my Bachelor's degree in Computer En
 
 | **Project**          | **Status**   | **Milestones**                                                                 |
 |----------------------|--------------|--------------------------------------------------------------------------------|
-| **AI Tutor Project** | Ongoing      | Extended to September 20, 2024, for additional documentation and analysis.      |
-| **The Learners**     | Completed    | Successfully launched and available for use.                                   |
+| **AI Tutor Project** | Ongoing      | Extended and still on hold for additional documentation and analysis.      |
+| **The Learners**     | Completed    | Successfully launched and available for use.      
+| ** AI - CODE - REFACTOR** | Completed |  Successfully Developed and Posted on **GitHub**: [GitHub Profile](https://github.com/Nevil-Dhinoja) |
 
 ## 📈 Learning Path  
 * **Java**: Completed an online course on Udemy.  

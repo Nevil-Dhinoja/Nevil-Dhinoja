@@ -17,12 +17,7 @@ Hello! I'm Nevil Dhinoja, currently pursuing my Bachelor's degree in Computer En
 
 ## 💡 Projects  
 
-### 1. AI Tutor Project  
-* **Description**: An AI-driven tutor that scans text and PDF files, answers related questions, and generates quizzes for practice.  
-* **Tech Stack**: PHP, Python, MySQL  
-* **Current Focus**: Developing the web version for enhanced accuracy and speed.
-
-### 2. The Learners  
+### 1. The Learners  
 * **Description**: An e-learning application designed to provide students with interactive and accessible educational content.  
 * **Tech Stack**: Java, PHP, MySQL  
 * **Features**: Course management, user-friendly interface, and real-time progress tracking.  
@@ -32,7 +27,6 @@ Hello! I'm Nevil Dhinoja, currently pursuing my Bachelor's degree in Computer En
 
 | **Project**          | **Status**   | **Milestones**                                                                 |
 |----------------------|--------------|--------------------------------------------------------------------------------|
-| **AI Tutor Project** | Ongoing      | Extended and still on hold for additional documentation and analysis.      |
 | **The Learners**     | Completed    | Successfully launched and available for use.      
 | **AI - CODE - REFACTOR** | Completed |  Successfully Developed and Posted on **GitHub**: [GitHub Profile](https://github.com/Nevil-Dhinoja) |
 

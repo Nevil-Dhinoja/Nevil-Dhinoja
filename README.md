@@ -169,5 +169,5 @@ Open to collaboration involving:
 ---
 
 ## Contact
-
+- Mail = dhinoja.nevil@gmail.com 
 Available for technical collaboration, research discussion, and system development.

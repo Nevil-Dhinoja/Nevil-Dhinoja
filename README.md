@@ -82,7 +82,7 @@ I treat machine learning as both an engineering discipline and an empirical scie
 ### Development Environment
 - Git-based version control
 - Jupyter ecosystem
-- Linux environments
+- Google Colab Env
 - API integration and data ingestion workflows
 
 ---

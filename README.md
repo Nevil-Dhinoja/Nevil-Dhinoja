@@ -1,174 +1,167 @@
-# Nevil Dhinoja
+<h1 align="center">NEVIL DHINOJA</h1>
 
-Machine Learning and Artificial Intelligence Practitioner  
-Student — Charotar University of Science and Technology (CHARUSAT)
+<p align="center">
+  <b>Machine Learning Engineer &nbsp;|&nbsp; AI Systems Builder &nbsp;|&nbsp; Automation Architect</b>
+</p>
 
-Focused on building intelligent systems, automation workflows, and retrieval-augmented AI solutions grounded in empirical evaluation.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&color=00C2FF&center=true&vCenter=true&width=900&lines=Production-Grade+Machine+Learning;Retrieval-Augmented+AI+Architectures;Scalable+ML+Pipelines;Engineering+Intelligent+Systems;Deployment+First.+Metrics+First.+Systems+First." />
+</p>
 
----
-
-## Overview
-
-I work at the intersection of machine learning engineering, intelligent automation, and applied AI research. My objective is to design systems that are not only functional but also measurable, reproducible, and scalable.
-
-My work combines:
-- Practical system development
-- Experiment-driven improvement
-- Model performance analysis
-- Data-centric design
-- Automated decision pipelines
-
-I treat machine learning as both an engineering discipline and an empirical science. Systems must work reliably, and results must be explainable.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Production%20ML-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-Scalable-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-Ready-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Systems-critical?style=for-the-badge"/>
+</p>
 
 ---
 
-## Core Focus Areas
+## SYSTEM STATUS
 
-### Machine Learning Engineering
-- End-to-end ML pipeline development
-- Data preprocessing and feature engineering
-- Model training, tuning, and validation
-- Performance optimization and benchmarking
-- Reproducible experimentation workflows
-- Deployment-oriented design
+```yaml
+discipline: Machine Learning Engineering
+mode: production
+architecture: modular
+evaluation: empirical
+deployment: mandatory
+```
 
-### Intelligent Automation
-- Data-driven automation pipelines
-- AI-assisted decision workflows
-- Task orchestration using ML models
+I design, build, and deploy production-oriented machine learning and AI systems.  
+My work focuses on reliability, scalability, and empirical evaluation — not just model experimentation.
+
+Currently pursuing engineering at Charotar University of Science and Technology (CHARUSAT) while actively engineering deployment-ready ML systems and retrieval-augmented AI architectures.
+
+---
+
+## PIPELINE MENTALITY
+
+```python
+def build_system():
+    define_metrics()
+    validate_data()
+    engineer_features()
+    train_and_benchmark()
+    stress_test()
+    containerize()
+    deploy()
+    monitor()
+    iterate()
+```
+
+No notebooks left behind.
+
+---
+
+## WHAT I BUILD
+
+```text
+DATA → TRAINING → VALIDATION → DEPLOYMENT → MONITORING → ITERATION
+```
+
+- End-to-end ML pipelines
+- Retrieval-Augmented Generation (RAG) systems
+- Intelligent automation workflows
+- API-driven AI services
+- Reproducible experimentation frameworks
+
+I treat machine learning as infrastructure — not experimentation.
+
+---
+
+## ENGINEERING PHILOSOPHY
+
+> Metrics before models  
+> Data quality over algorithm hype  
+> Reproducibility is non-negotiable  
+> Systems must survive production  
+> Every model must be deployable
+
+**Architecture > quick demos**  
+**Systems > scripts**  
+**Evidence > intuition**
+
+---
+
+## CORE EXPERTISE
+
+### MACHINE LEARNING ENGINEERING
+
+- Feature engineering & statistical validation
+- Model benchmarking & performance diagnostics
+- Bias-variance optimization
+- Error decomposition & failure analysis
+- Deployment-oriented model design
+
+### RETRIEVAL-AUGMENTED AI SYSTEMS
+
+- Vector indexing pipelines
+- Knowledge-grounded generation
+- Context-aware model integration
+- Retrieval evaluation & ranking diagnostics
+- Real-world RAG failure handling
+
+### INTELLIGENT AUTOMATION
+
+- ML-driven decision pipelines
 - API-integrated automation systems
-- Process optimization using predictive models
-
-### MCP and Retrieval-Augmented Systems
-- Retrieval-Augmented Generation (RAG) architectures
-- Context-aware AI system design
-- Knowledge-grounded model responses
-- Vector-based retrieval workflows
-- Data indexing and retrieval optimization
-- Evaluation of retrieval quality and response accuracy
-
-### Applied Research
-- Empirical evaluation of model behavior
-- Error analysis and generalization study
-- Controlled model comparison
-- Data quality impact on system performance
-- Experiment design and interpretation
+- Predictive workflow orchestration
+- Data-centric process optimization
 
 ---
 
-## Technical Stack
+## TECH STACK
 
-### Programming
-- Python
-- SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,pytorch,tensorflow,docker,git,fastapi" />
+</p>
 
-### Machine Learning Frameworks
-- scikit-learn
-- PyTorch
-- TensorFlow
-
-### Data and Analysis
-- Pandas
-- NumPy
-- Exploratory Data Analysis
-- Statistical evaluation methods
-
-### AI System Components
-- Retrieval pipelines
-- Vector representations
-- Model integration workflows
-- API-based AI services
-
-### Development Environment
-- Git-based version control
-- Jupyter ecosystem
-- Google Colab Env
-- API integration and data ingestion workflows
+**Languages:** Python, SQL  
+**ML Frameworks:** scikit-learn, PyTorch, TensorFlow  
+**Data:** Pandas, NumPy, Statistical Evaluation  
+**AI Systems:** Retrieval pipelines, vector embeddings, model integration APIs  
+**Deployment:** FastAPI, Docker, experiment tracking workflows  
+**Versioning:** Git-based workflows, reproducible experimentation
 
 ---
 
-## Engineering Methodology
+## CURRENT BUILD MODE
 
-My development lifecycle follows a structured, research-informed workflow:
-
-1. Problem formalization and metric definition  
-2. Data acquisition and validation  
-3. Baseline system construction  
-4. Iterative experimentation and controlled comparison  
-5. Performance tuning and error analysis  
-6. Reproducibility and documentation  
-7. Deployment-ready system design
-
-Decisions are driven by empirical evidence and measurable outcomes.
+- Designing production-style RAG systems
+- Engineering scalable ML deployment pipelines
+- Strengthening monitoring & evaluation systems
+- Bridging applied research with deployable AI
 
 ---
 
-## Research Orientation
+## RESEARCH VECTOR
 
-I am particularly interested in investigating:
-
-- Reliability of retrieval-augmented AI systems
-- Effects of data quality on model behavior
-- Trade-offs between system complexity and performance
-- Efficiency of automated decision pipelines
-- Robustness of ML systems in real-world environments
-- Methods for improving generalization
-
-My objective is to produce systems that are both implementable and analytically grounded.
+- Reliability of retrieval-augmented AI
+- Data quality impact on model behavior
+- Generalization & robustness of ML systems
+- Complexity vs performance trade-offs
+- AI pipeline failure analysis
 
 ---
 
-## Current Development Goals
+## PROFESSIONAL TRAJECTORY
 
-- Designing scalable ML-driven automation systems
-- Building production-style RAG architectures
-- Strengthening system evaluation methodologies
-- Improving experiment reproducibility
-- Bridging research insights with deployable AI systems
-
----
-
-## Project Philosophy
-
-Repositories in this profile emphasize:
-
-- Clear problem definition
-- Data-first reasoning
-- Transparent methodology
-- Reproducible experimentation
-- Engineering discipline
-- Measurable system performance
-
-Each project is treated as both a functional system and an empirical investigation.
-
----
-
-## Professional Direction
-
-I am developing toward roles combining:
-
+**Targeting roles in:**
 - Machine Learning Engineering
-- Intelligent Automation Engineering
+- AI Systems Engineering
+- Intelligent Automation
 - Applied AI Research
-- Scalable AI System Design
 
-My long-term objective is to build reliable, knowledge-aware intelligent systems informed by rigorous experimentation.
-
----
-
-## Collaboration
-
-Open to collaboration involving:
-
-- ML system development
-- Automation pipelines
-- Retrieval-augmented AI systems
-- Data-centric AI research
-- Engineering-focused AI solutions
+**Long-term objective:**  
+Engineer scalable, knowledge-aware intelligent systems grounded in rigorous experimentation and production discipline.
 
 ---
 
-## Contact
-- Mail : dhinoja.nevil@gmail.com
-  
-Available for technical collaboration, research discussion, and system development.
+<p align="center">
+  <b>BUILD SYSTEMS THAT WORK.</b><br/>
+  Not models that merely run.
+</p>
+
+<p align="center">
+  📩 <a href="mailto:dhinoja.nevil@gmail.com">dhinoja.nevil@gmail.com</a>
+</p>

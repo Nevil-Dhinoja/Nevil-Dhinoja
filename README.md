@@ -1,6 +1,6 @@
 # Nevil Dhinoja
 
-Rajkot, Gujarat, India · dhinoja.nevil@gmail.com · +91 9426080847
+Rajkot, Gujarat, India · dhinoja.nevil@gmail.com ·
 [github.com/nevildhinoja](https://github.com/nevildhinoja) · [linkedin.com/in/nevil-dhinoja](https://linkedin.com/in/nevil-dhinoja)
 
 ---

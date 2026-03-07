@@ -1,167 +1,67 @@
-<h1 align="center">NEVIL DHINOJA</h1>
+# Nevil Dhinoja
 
-<p align="center">
-  <b>Machine Learning Engineer &nbsp;|&nbsp; AI Systems Builder &nbsp;|&nbsp; Automation Architect</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&color=00C2FF&center=true&vCenter=true&width=900&lines=Production-Grade+Machine+Learning;Retrieval-Augmented+AI+Architectures;Scalable+ML+Pipelines;Engineering+Intelligent+Systems;Deployment+First.+Metrics+First.+Systems+First." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Production%20ML-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Architecture-Scalable-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deployment-Ready-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Systems-critical?style=for-the-badge"/>
-</p>
+Rajkot, Gujarat, India · dhinoja.nevil@gmail.com · +91 9426080847
+[github.com/nevildhinoja](https://github.com/nevildhinoja) · [linkedin.com/in/nevil-dhinoja](https://linkedin.com/in/nevil-dhinoja)
 
 ---
 
-## SYSTEM STATUS
+Hey , I'm Nevil, an ML engineer in the making from Gujarat, India. I spend most of my time building systems that take ML beyond the experimentation phase things that are modular, deployable, and actually solve a problem. Right now my main focus is making RAG pipelines more reliable, which led to RAGGuard. I've published research on meta-learning, interned across ML and AI engineering roles, and I'm currently in my second year of B.Tech at CHARUSAT.
 
-```yaml
-discipline: Machine Learning Engineering
-mode: production
-architecture: modular
-evaluation: empirical
-deployment: mandatory
-```
-
-I design, build, and deploy production-oriented machine learning and AI systems.  
-My work focuses on reliability, scalability, and empirical evaluation — not just model experimentation.
-
-Currently pursuing engineering at Charotar University of Science and Technology (CHARUSAT) while actively engineering deployment-ready ML systems and retrieval-augmented AI architectures.
+This is where I keep my work. Browse the repos.
 
 ---
 
-## PIPELINE MENTALITY
+### Experience
 
-```python
-def build_system():
-    define_metrics()
-    validate_data()
-    engineer_features()
-    train_and_benchmark()
-    stress_test()
-    containerize()
-    deploy()
-    monitor()
-    iterate()
-```
+**AI Engineer Intern — SemanticSEO** · Aug 2025 – Dec 2025
+Worked on AI-driven SEO intelligence systems using NLP and semantic analysis. Implemented data pipelines for keyword analysis and search intent classification. Assisted in developing internal AI tools for semantic search optimization and ranking insights.
 
-No notebooks left behind.
+**Machine Learning Engineer Intern — Arocom IT Solutions** · May 2025 – Jun 2025
+Designed and implemented an automated machine learning pipeline for tabular datasets. Built modular workflows for preprocessing, feature engineering, training, and evaluation. Generated deployment-ready models as serialized artifacts.
+
+**Android Developer Intern — Ocean Infotech** · Dec 2023 – Apr 2024
+Developed Android application features using Java and XML. Debugged performance issues and improved application stability.
 
 ---
 
-## WHAT I BUILD
+### Projects
 
-```text
-DATA → TRAINING → VALIDATION → DEPLOYMENT → MONITORING → ITERATION
-```
+**RAGGuard — Retrieval Irrelevance Detection for Reliable RAG Systems**
+Developed a retrieval validation layer for RAG pipelines. Implemented embedding-based semantic similarity scoring to evaluate document relevance and designed filtering strategies to remove irrelevant context before generation. Built with modular architecture separating retrieval, relevance scoring, and generation components.
 
-- End-to-end ML pipelines
-- Retrieval-Augmented Generation (RAG) systems
-- Intelligent automation workflows
-- API-driven AI services
-- Reproducible experimentation frameworks
+**Deep Demand Forecasting for Retail Sales**
+Built ML models to forecast product demand using historical retail sales data. Implemented feature engineering capturing seasonality, trend patterns, and product-level behavior. Evaluated multiple forecasting models to improve prediction accuracy.
 
-I treat machine learning as infrastructure — not experimentation.
+**ML Predictor Pro — Automated Machine Learning Pipeline**
+Built an automated system allowing users to upload datasets and execute full ML workflows — preprocessing, feature engineering, training, and evaluation. Supports multiple algorithms with configurable metrics. Generates deployment-ready model artifacts.
 
----
+**QueueWise Pro — ML-Based Queue Time Prediction**
+Developed a machine learning system to predict waiting time in high-traffic queue environments. Evaluated multiple ML algorithms and built a Streamlit dashboard for real-time prediction and visualization.
 
-## ENGINEERING PHILOSOPHY
-
-> Metrics before models  
-> Data quality over algorithm hype  
-> Reproducibility is non-negotiable  
-> Systems must survive production  
-> Every model must be deployable
-
-**Architecture > quick demos**  
-**Systems > scripts**  
-**Evidence > intuition**
+**NSS Connect Portal — CHARUSAT University**
+Centralized web portal for managing NSS activities at CHARUSAT University. Role-based access for students, coordinators, and administrators. Modules for activity tracking, attendance management, and event reporting. Deployed on CHARUSAT cloud infrastructure.
 
 ---
 
-## CORE EXPERTISE
+### Research
 
-### MACHINE LEARNING ENGINEERING
+**Retrieval Irrelevance Detection for Robust RAG** · Ongoing
+Investigating methods to detect irrelevant or low-quality retrieved documents in RAG systems. Developing embedding-based semantic relevance scoring for retrieval validation. Exploring filtering strategies to reduce hallucination risk.
 
-- Feature engineering & statistical validation
-- Model benchmarking & performance diagnostics
-- Bias-variance optimization
-- Error decomposition & failure analysis
-- Deployment-oriented model design
-
-### RETRIEVAL-AUGMENTED AI SYSTEMS
-
-- Vector indexing pipelines
-- Knowledge-grounded generation
-- Context-aware model integration
-- Retrieval evaluation & ranking diagnostics
-- Real-world RAG failure handling
-
-### INTELLIGENT AUTOMATION
-
-- ML-driven decision pipelines
-- API-integrated automation systems
-- Predictive workflow orchestration
-- Data-centric process optimization
+**Design Principles for MAML: A Framework Proposal**
+Dhinoja, N. (2025). International Research Conference, Bangkok, Thailand.
+Proposed architectural design principles for improving Model-Agnostic Meta-Learning frameworks. Investigated optimization strategies to enhance few-shot learning stability and performance.
 
 ---
 
-## TECH STACK
+### Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,pytorch,tensorflow,docker,git,fastapi" />
-</p>
-
-**Languages:** Python, SQL  
-**ML Frameworks:** scikit-learn, PyTorch, TensorFlow  
-**Data:** Pandas, NumPy, Statistical Evaluation  
-**AI Systems:** Retrieval pipelines, vector embeddings, model integration APIs  
-**Deployment:** FastAPI, Docker, experiment tracking workflows  
-**Versioning:** Git-based workflows, reproducible experimentation
+Python, Java · Pandas, NumPy, scikit-learn, Matplotlib, Seaborn · LangChain, RAG, Embedding Retrieval · Streamlit, Flask · Git, Docker, VS Code
 
 ---
 
-## CURRENT BUILD MODE
+### Education
 
-- Designing production-style RAG systems
-- Engineering scalable ML deployment pipelines
-- Strengthening monitoring & evaluation systems
-- Bridging applied research with deployable AI
+**B.Tech, Computer Engineering** · CHARUSAT University, Anand, Gujarat · 2024 – 2027
 
----
-
-## RESEARCH VECTOR
-
-- Reliability of retrieval-augmented AI
-- Data quality impact on model behavior
-- Generalization & robustness of ML systems
-- Complexity vs performance trade-offs
-- AI pipeline failure analysis
-
----
-
-## PROFESSIONAL TRAJECTORY
-
-**Targeting roles in:**
-- Machine Learning Engineering
-- AI Systems Engineering
-- Intelligent Automation
-- Applied AI Research
-
-**Long-term objective:**  
-Engineer scalable, knowledge-aware intelligent systems grounded in rigorous experimentation and production discipline.
-
----
-
-<p align="center">
-  <b>BUILD SYSTEMS THAT WORK.</b><br/>
-  Not models that merely run.
-</p>
-
-<p align="center">
-  📩 <a href="mailto:dhinoja.nevil@gmail.com">dhinoja.nevil@gmail.com</a>
-</p>
+**Diploma, Computer Engineering** · RK University, Rajkot, Gujarat · 2021 – 2024
